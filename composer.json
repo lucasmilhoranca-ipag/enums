@@ -1,5 +1,5 @@
 {
-    "name": "archtechx/enums",
+    "name": "lucasmilhoranca/enums",
     "description": "Helpers for making PHP enums more lovable.",
     "type": "library",
     "license": "MIT",
